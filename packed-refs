@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+edb4e0e80197968b6c6b4e8b6b58fd59bcf499d7 refs/remotes/origin/Dev
+edb4e0e80197968b6c6b4e8b6b58fd59bcf499d7 refs/remotes/origin/QA
+edb4e0e80197968b6c6b4e8b6b58fd59bcf499d7 refs/remotes/origin/Sandbox
+52b70c00d7b739570f3bf0f79b25c25d64e32088 refs/remotes/origin/master
+eca9070eb86f6093d69b8155518c65fef9eb52de refs/remotes/origin/snyk-fix-06c3ca7ef1fbf7cc38feda2c20e76453
+6f864b77365e70b6844cf028a49a81094eb1514e refs/remotes/origin/snyk-fix-4718250cde3ff9677b53d96f4354899e
